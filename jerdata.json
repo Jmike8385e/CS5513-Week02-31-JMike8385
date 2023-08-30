@@ -1,0 +1,26 @@
+[
+    {
+        "firstname":"Jeff",
+        "link":"https://www.amazon.com"
+    },
+    {
+        "firstname":"Tim",
+        "link":"https://www.apple.com"
+    },
+    {
+        "firstname":"Bill",
+        "link":"https://www.microsoft.com"
+    },
+    {
+        "firstname":"Mark",
+        "link":"https://www.instagram.com"
+    },
+    {
+        "firstname":"Sundar",
+        "link":"https://www.google.com"
+    },
+    {
+        "firstname":"Elon",
+        "link":"https://www.tesla.com"
+    }
+]
